@@ -1,0 +1,19 @@
+public 静态资源
+model 数据库操作
+route 路由
+views 模板
+config 配置文件
+middleware 中间件文件
+
+
+npm init -y 初始化项目描述文件
+
+下载第三方模块
+npm install express mongoose art-template expess-art-template
+
+express 框架 创建网站服务器和路由
+mongoose 连接数据库和操作数据库
+art-template expess-art-template 用来渲染模板
+
+path 用来处理路径
+config

@@ -1,0 +1,8 @@
+{
+    "db":{
+        "user":"normal",
+        "host":"localhost",
+        "port":"27017",
+        "name":"knowledgebase"
+    }
+}
